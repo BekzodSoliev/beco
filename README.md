@@ -1,0 +1,2 @@
+# beco
+Github birinchi kodim
